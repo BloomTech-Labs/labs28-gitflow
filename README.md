@@ -26,10 +26,10 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 1️⃣:** Clone this repository by clicking the green **Clone or Download** button in the top right.
   ![Clone/Download](https://tk-assets.lambdaschool.com/054e5ad4-75cd-4b98-b929-7bf453bc8263_ScreenShot2020-04-13at7.31.05AM.png)
 - **Step 2️⃣:** CD into the repository and create a branch off of the main branch.
-  - [x] Name the branch **"feature/add-name"** `git checkout -b 'feature/add-name`
+  -  Name the branch **"feature/add-name"** `git checkout -b 'feature/add-name`
   - **note**: this is the naming convention you will use in Lambda Labs.
-  - [x] Once the branch is created run `git branch` to ensure that you've switched to the new branch. (You should be in the habit of doing this by the end of your first week in labs).
-- [x]**Step 3️⃣:** Now that you have created your branch you're ready to work on the repo. Our task for the day is to have you add your name to the list below (**note** the semantically chosen branch name you created coincides with the task at hand) the `### Your name` heading in this README.md file.
+  -  Once the branch is created run `git branch` to ensure that you've switched to the new branch. (You should be in the habit of doing this by the end of your first week in labs).
+- **Step 3️⃣:** Now that you have created your branch you're ready to work on the repo. Our task for the day is to have you add your name to the list below (**note** the semantically chosen branch name you created coincides with the task at hand) the `### Your name` heading in this README.md file.
 - **Step 4️⃣:** Run your typical staging, commit and publish commands:
   - `git status` , `git add <file-name>` , `git commit -m 'your message'` , `git push origin <branch-name>`.
   - 💥**note:** you're pushing to your branch NOT to the main branch. (!!VERY IMPORTANT!!)💥
