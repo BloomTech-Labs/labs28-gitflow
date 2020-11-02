@@ -47,6 +47,12 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Ryan Hamblin
+
 ### Leeroy Jenkins
 
+<<<<<<< HEAD
 ### Thomas Sabino-Benowitz
+=======
+### Jessica Duell
+>>>>>>> 366904f1959a66217b846da8b59fd6f6bb9d1841
