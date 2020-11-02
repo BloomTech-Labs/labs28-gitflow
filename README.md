@@ -48,3 +48,16 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Charise Arter
+
+### Ryan Hamblin
+
+### Leeroy Jenkins
+
+## Adonis Puente
+
+### Emilio Ramirez
+
+### Jessica Duell
+
+### Elizabeth Bailey
+
