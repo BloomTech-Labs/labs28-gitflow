@@ -47,4 +47,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+<<<<<<< HEAD
 ### Lauren Emick
+=======
+### Ryan Hamblin
+
+### Leeroy Jenkins
+
+### Emilio Ramirez
+
+### Jessica Duell
+
+### Elizabeth Bailey
+>>>>>>> d33a06155c25922d5bef2e55ba85a2c1b5230552
