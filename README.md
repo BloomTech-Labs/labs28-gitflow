@@ -60,3 +60,10 @@ The following is a list of steps and instructions on how to complete this guided
 ### Emilio Ramirez
 
 ### Jessica Duell
+<<<<<<< HEAD
+
+### Elizabeth Bailey
+
+### Steven Westmoreland
+=======
+>>>>>>> 78f888aacead1852ae6264e49d6105a545518176
