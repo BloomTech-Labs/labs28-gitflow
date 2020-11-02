@@ -51,10 +51,15 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Leeroy Jenkins
 
+## Adonis Puente
+
 ### Emilio Ramirez
 
 ### Jessica Duell
 
 ### Elizabeth Bailey
+<<<<<<< HEAD
 
 ### Benjamin Witter
+=======
+>>>>>>> 0c283faf5e663615f765dacb6016282a71bef342
